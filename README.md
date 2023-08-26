@@ -59,5 +59,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ---
 
-Feel free to customize this README according to your project's specific details and requirements. Good luck with your Alumni Management System!
+
 
