@@ -59,5 +59,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ---
 
+| Name          | Role          | Background and Role                            |
+|---------------|---------------|----------------------------------------|
+| Shaikh Mudassir | Team Lead    | B.Tech IT and DB Management Back-End |
+| Khan Haris    | Developer     | B.Tech IT and JavaScript Back-End & CSS |
+| Kiran Sala    | Developer      | B.Tech IT and DB Connectivity Back-End |
+| Dhanush Reddy  | Developer |  B.Tech IT and PHP Back-End |
+
 
 
