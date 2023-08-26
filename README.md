@@ -2,6 +2,9 @@
 
 The Alumni Management System is a web-based application designed to manage and maintain alumni data for educational institutions. This README provides step-by-step instructions for setting up the project using XAMPP.
 
+### This project is developed under the CodeINovact Hackathon.
+
+
 ## HackHeros Teams
 
 | Name          | Role          | Background and Role                            |
